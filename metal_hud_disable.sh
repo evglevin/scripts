@@ -10,7 +10,8 @@
 
 # Documentation:
 # @raycast.description Disables FPS counter
-# @raycast.author elevin
+# @raycast.author evglevin
+# @raycast.authorURL https://github.com/evglevin
 
 /bin/launchctl setenv MTL_HUD_ENABLED 0
 echo "Metal HUD disabled"
